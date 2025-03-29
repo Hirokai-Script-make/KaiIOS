@@ -3,7 +3,7 @@ export THEOS=/var/mobile/theos
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = VTIOS
+TWEAK_NAME = KAIIOS
 
 $(TWEAK_NAME)_FILES = FPSDisplay.m
 
